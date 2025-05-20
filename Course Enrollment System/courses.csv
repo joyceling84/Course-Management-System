@@ -1,0 +1,31 @@
+1,Remedial,English Remedial Course,2100
+1,Remedial,Mathematics Remedial Course,2500
+1,Remedial,Science Remedial Course,2500
+1,Matriculation,Matriculaton in Science,12600
+1,Matriculation,Matriculaton in Accounting,11000
+1,Matriculation,Matriculaton in Business,11000
+1,Matriculation,Matriculaton in Engineering,13000
+1,Matriculation,Matriculaton in IT,12600
+1,Matriculation,Matriculaton in Law,13000
+2,Undergraduate,BSc Accounting,58000
+2,Undergraduate,BSc Business,56000
+2,Undergraduate,BSc Computer Science,62000
+2,Undergraduate,BSc Engineering,76000
+2,Undergraduate,BSc Finance,56000
+2,Undergraduate,BSc Human Resource,55000
+2,Undergraduate,BSc Hotel Management,55000
+2,Undergraduate,BSc IT,62000
+2,Undergraduate,BSc Law,76000
+2,Undergraduate,BSc Marketing,56000
+2,Undergraduate,BSc Pharmacy,78000
+3,Postgraduate,MSc Accounting,33500
+3,Postgraduate,MSc Business,33500
+3,Postgraduate,MSc Cyber Security,35000
+3,Postgraduate,MSc Civil Engineering,36000
+3,Postgraduate,MSc Data Science,35000
+3,Postgraduate,MSc Economics,33500
+3,Postgraduate,MSc IT,35000
+3,Postgraduate,MSc Law,38200
+3,Postgraduate,MSc Mechanical Engineering,36000
+3,Postgraduate,MSc Psychology,38600
+3,Postgraduate,MSc Pharmaceutical Science,38600

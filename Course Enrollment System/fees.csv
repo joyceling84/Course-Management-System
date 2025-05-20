@@ -1,0 +1,8 @@
+optional,Accommodation fee,single room - without air-conditioning,450
+optional,Accommodation fee,single room - with air-conditioning,550
+optional,Accommodation fee,twin-sharing room - without air-conditioning,300
+optional,Accommodation fee,twin-sharing room - with air-conditioning,400
+mandatory,Resources fee,IT/network,180
+mandatory,Resources fee,Library fee,120
+mandatory,Recourses fee,Club and Society fee,20
+mandatory,Registration fee,Registration fee,500
